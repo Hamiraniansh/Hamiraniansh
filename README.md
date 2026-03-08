@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi, I'm Bruhz — a student and aspiring developer passionate about building skills in technology.<br><br>🚀 Current Focus<br>Web Development — HTML, CSS, and modern web technologies<br>Linux & Termux — command-line tools and environments<br>WordPress Development — website building and customization<br>AI Tools & Automation<br>💡 Approach<br>I believe in learning by doing — building projects, experimenting, and improving every day.<br>⭐ Always learning. Always building.
+
 Visit My Website For More Details: https://bruhzansh.netlify.app
 
 ## 🌐 Socials:
