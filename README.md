@@ -16,8 +16,6 @@
 
 - ⚡ Fun fact **I monetize skills.**
 
-- 👨‍💻 All of my projects are available at **[https://bruhzansh.netlify.app](https://bruhzansh.netlify.app)**
-
 - 📝 I regularly write articles on **[https://bruhzansh.netlify.app](https://bruhzansh.netlify.app)**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1T-BCIbm_1M6cvsjz8vy47YUyIAzLKiZ6/view](https://drive.google.com/file/d/1T-BCIbm_1M6cvsjz8vy47YUyIAzLKiZ6/view)**
