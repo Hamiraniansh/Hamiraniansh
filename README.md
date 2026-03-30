@@ -47,5 +47,5 @@
 ## 🔥 My Coding Streak
 
 <p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/mubin25s/mubin25s/main/streak.svg" />
+  <img width="600" src="https://github.com/mubin25s/mubin25s/blob/main/streak.svg?raw=true" />
 </p>
