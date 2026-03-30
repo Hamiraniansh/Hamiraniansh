@@ -43,3 +43,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<img src="https://raw.githubusercontent.com/mubin25s/mubin25s/main/streak.svg" />
+
+![Streak](https://streak-stats.demolab.com?user=mubin25s&theme=tokyonight&hide_border=true&border_radius=20&ring=ff7b00&fire=ff7b00&currStreakLabel=ff7b00)
