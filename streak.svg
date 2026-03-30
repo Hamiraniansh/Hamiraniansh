@@ -1,58 +1,38 @@
-<svg width="500" height="220" viewBox="0 0 500 220" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="220" viewBox="0 0 500 220">
 
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%">
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%">
       <stop offset="0%" stop-color="#ff7b00"/>
       <stop offset="50%" stop-color="#ff00c8"/>
       <stop offset="100%" stop-color="#00ffe1"/>
     </linearGradient>
   </defs>
 
-  <!-- Glass Card -->
+  <!-- Card -->
   <rect x="10" y="10" width="480" height="200" rx="30"
-        fill="#0d1117" fill-opacity="0.6"
-        stroke="url(#grad)" stroke-width="2"/>
+        fill="#0d1117" stroke="url(#g)" stroke-width="2"/>
 
-  <!-- Glass Highlight -->
-  <rect x="10" y="10" width="480" height="90" rx="30"
-        fill="white" fill-opacity="0.04"/>
+  <!-- Center circle -->
+  <circle cx="250" cy="110" r="60"
+          stroke="url(#g)" stroke-width="6" fill="none"/>
 
-  <!-- Center Ring -->
-  <circle cx="250" cy="100" r="60"
-          stroke="url(#grad)" stroke-width="6"
-          fill="none"/>
-
-  <!-- Soft Glow -->
-  <circle cx="250" cy="100" r="66"
-          stroke="url(#grad)" stroke-width="2"
-          fill="none" opacity="0.3"/>
-
-  <!-- Center Number -->
-  <text x="250" y="105" text-anchor="middle"
-        fill="url(#grad)" font-size="36" font-weight="900"
-        font-family="Segoe UI, Arial">
+  <!-- Center text -->
+  <text x="250" y="115" text-anchor="middle"
+        fill="url(#g)" font-size="34" font-weight="bold">
     92
   </text>
 
-  <!-- Label -->
-  <text x="250" y="135" text-anchor="middle"
-        fill="#ff7b00" font-size="14" font-weight="600"
-        font-family="Segoe UI, Arial">
+  <text x="250" y="140" text-anchor="middle"
+        fill="#ff7b00" font-size="14">
     Current Streak
   </text>
 
-  <!-- Left Stats -->
-  <text x="80" y="95" fill="#7aa2f7" font-size="28"
-        text-anchor="middle" font-weight="700"
-        font-family="Segoe UI, Arial">1201</text>
-  <text x="80" y="120" fill="#8b949e" font-size="12"
-        text-anchor="middle">Total</text>
+  <!-- Left -->
+  <text x="80" y="105" fill="#7aa2f7" font-size="26" text-anchor="middle">1201</text>
+  <text x="80" y="130" fill="#8b949e" font-size="12" text-anchor="middle">Total</text>
 
-  <!-- Right Stats -->
-  <text x="420" y="95" fill="#7aa2f7" font-size="28"
-        text-anchor="middle" font-weight="700"
-        font-family="Segoe UI, Arial">92</text>
-  <text x="420" y="120" fill="#8b949e" font-size="12"
-        text-anchor="middle">Longest</text>
+  <!-- Right -->
+  <text x="420" y="105" fill="#7aa2f7" font-size="26" text-anchor="middle">92</text>
+  <text x="420" y="130" fill="#8b949e" font-size="12" text-anchor="middle">Longest</text>
 
 </svg>
