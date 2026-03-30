@@ -20,6 +20,10 @@
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1T-BCIbm_1M6cvsjz8vy47YUyIAzLKiZ6/view](https://drive.google.com/file/d/1T-BCIbm_1M6cvsjz8vy47YUyIAzLKiZ6/view)**
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Hamiraniansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Hamiraniansh" height="30" width="40" /></a>
