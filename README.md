@@ -43,9 +43,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🔥 My Coding Streak
-
 <p align="center">
   <img width="600" src="https://github.com/mubin25s/mubin25s/blob/main/streak.svg?raw=true" />
 </p>
+
