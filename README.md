@@ -1,7 +1,7 @@
 # Hi 👋, I'm Bruhz
-
-### Developer
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=900&height=100&lines=Web+Developer;Termux+Expert;Bot+Developer;Cybersecurity+Enthusiast" alt="Typing SVG">
+</p>
 - 🔭 I'm currently working on **Building a real-time global intelligence system**
 
 - 🌱 I'm currently learning **Mastering Web Development & System Automation**
